@@ -10,4 +10,4 @@
 
 Пример работы программы:
 
-![](/images/img.png)
+![](https://github.com/mrgoshha/nsu_computer_graphics/blob/master/Paint/images/img.png)
